@@ -1,3 +1,5 @@
+*** NOTE: THIS IS A CLONE OF THE ORIGINAL PROJECT (see below for original source code info) ***
+
 This API enables cross-origin requests to anywhere.
 
 Usage:
